@@ -26,3 +26,7 @@ data/plantvillage/
 .DS_Store
 .vscode/
 .idea/
+
+# Frontend generated files
+node_modules/
+dist/
